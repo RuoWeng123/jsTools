@@ -1,0 +1,22 @@
+{
+  "name": "buildtree",
+  "version": "1.0.0",
+  "description": "first webpack npm base build tree",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "build",
+    "tree"
+  ],
+  "author": "ruoweng",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.14.1"
+  }
+}
